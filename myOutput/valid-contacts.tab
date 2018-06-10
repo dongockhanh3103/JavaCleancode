@@ -1,0 +1,332 @@
+id	first_name	last_name	address	city	state	zip	phone1	email	date_of_birth	
+1	James	Butt	01/06/1929	6649 N Blue Gum St	New Orleans	LA	70116	504-621-8927	jbutt@gmail.com
+2	Josephine	Darakjy	02/01/1945	4 B Blue Ridge Blvd	Brighton	MI	48116	810-292-9388	josephine_darakjy@darakjy.org
+4	Lenna	Paprocki	08/01/1915	639 Main St	Anchorage	AK	99501	907-385-4412	lpaprocki@hotmail.com
+5	Donette	Foller	05/14/1950	34 Center St	Hamilton	OH	45011	513-570-1893	donette.foller@cox.net
+7	Mitsue	Tollner	11/13/1924	7 Eads St	Chicago	IL	60632	773-573-6914	mitsue_tollner@yahoo.com
+8	Leota	Dilliard	04/22/1932	7 W Jackson Blvd	San Jose	CA	95111	408-752-3500	leota@hotmail.com
+9	Sage	Wieser	06/10/1928	5 Boston Ave #88	Sioux Falls	SD	57105	605-414-2147	sage_wieser@cox.net
+11	Minna	Amigon	10/24/1938	2371 Jerrold Ave	Kulpsville	PA	19443	215-874-1229	minna_amigon@yahoo.com
+13	Kiley	Caldarera	12/13/1930	25 E 75th St #69	Los Angeles	CA	90034	310-498-5651	kiley.caldarera@aol.com
+15	Cammy	Albares	02/16/1955	56 E Morehead St	Laredo	TX	78045	956-537-6195	calbares@gmail.com
+16	Mattie	Poquette	04/19/1973	73 State Road 434 E	Phoenix	AZ	85013	602-277-4385	mattie@aol.com
+17	Meaghan	Garufi	06/03/2013	69734 E Carrillo St	Mc Minnville	TN	37110	931-313-9635	meaghan@hotmail.com
+18	Gladys	Rim	02/19/2011	322 New Horizon Blvd	Milwaukee	WI	53207	414-661-9598	gladys.rim@rim.org
+21	Bette	Nicka	07/16/1925	6 S 33rd St	Aston	PA	19014	610-545-3615	bette_nicka@cox.net
+22	Veronika	Inouye	09/15/1974	6 Greenleaf Ave	San Jose	CA	95111	408-540-1785	vinouye@aol.com
+23	Willard	Kolmetz	02/23/1986	618 W Yakima Ave	Irving	TX	75062	972-303-9197	willard@hotmail.com
+24	Maryann	Royster	01/19/1949	74 S Westgate St	Albany	NY	12204	518-966-7987	mroyster@royster.com
+25	Alisha	Slusarski	07/28/1993	3273 State St	Middlesex	NJ	8846	732-658-3154	alisha@slusarski.com
+26	Allene	Iturbide	07/18/2009	1 Central Ave	Stevens Point	WI	54481	715-662-6764	allene_iturbide@cox.net
+31	Ammie	Corrio	03/26/1953	74874 Atlantic Ave	Columbus	OH	43215	614-801-9788	ammie@corrio.com
+32	Francine	Vocelka	11/20/1924	366 South Dr	Las Cruces	NM	88011	505-977-3911	francine_vocelka@vocelka.com
+34	Albina	Glick	10/14/2006	4 Ralph Ct	Dunellen	NJ	8812	732-924-7882	albina@glick.com
+36	Solange	Shinko	01/03/1979	426 Wolf St	Metairie	LA	70002	504-979-9175	solange@shinko.com
+37	Jose	Stockham	10/14/2010	128 Bransten Rd	New York	NY	10011	212-675-8570	jose@yahoo.com
+38	Rozella	Ostrosky	03/10/1949	17 Morena Blvd	Camarillo	CA	93012	805-832-6163	rozella.ostrosky@ostrosky.com
+41	Youlanda	Schemmer	08/14/1984	2881 Lewis Rd	Prineville	OR	97754	541-548-8197	youlanda@aol.com
+42	Dyan	Oldroyd	02/05/1981	7219 Woodfield Rd	Overland Park	KS	66204	913-413-4604	doldroyd@aol.com
+43	Roxane	Campain	09/11/1971	1048 Main St	Fairbanks	AK	99708	907-231-4722	roxane@hotmail.com
+44	Lavera	Perin	09/17/1956	678 3rd Ave	Miami	FL	33196	305-606-7291	lperin@perin.org
+45	Erick	Ferencz	09/03/1975	20 S Babcock St	Fairbanks	AK	99712	907-741-1044	erick.ferencz@aol.com
+46	Fatima	Saylors	03/21/1948	2 Lighthouse Ave	Hopkins	MN	55343	952-768-2416	fsaylors@saylors.org
+47	Jina	Briddick	11/03/2010	38938 Park Blvd	Boston	MA	2128	617-399-5124	jina_briddick@briddick.com
+49	Emerson	Bowley	07/28/1998	762 S Main St	Madison	WI	53711	608-336-7444	emerson.bowley@bowley.org
+50	Blair	Malet	06/13/2001	209 Decker Dr	Philadelphia	PA	19132	215-907-9111	bmalet@yahoo.com
+51	Brock	Bolognia	03/02/1942	4486 W O St #1	New York	NY	10003	212-402-9216	bbolognia@yahoo.com
+52	Lorrie	Nestle	02/20/1931	39 S 7th St	Tullahoma	TN	37388	931-875-6644	lnestle@hotmail.com
+54	Marjory	Mastella	11/14/1917	71 San Mateo Ave	Wayne	PA	19087	610-814-5533	mmastella@mastella.com
+56	Tonette	Wenner	04/27/1969	4545 Courthouse Rd	Westbury	NY	11590	516-968-6051	twenner@aol.com
+58	Shenika	Seewald	06/07/1977	4 Otis St	Van Nuys	CA	91405	818-423-4007	shenika@gmail.com
+59	Delmy	Ahle	05/17/1975	65895 S 16th St	Providence	RI	2909	401-458-2547	delmy.ahle@hotmail.com
+61	Blondell	Pugh	10/16/1946	201 Hawk Ct	Providence	RI	2904	401-960-8259	bpugh@aol.com
+63	Cecily	Hollack	01/27/1943	59 N Groesbeck Hwy	Austin	TX	78731	512-486-3817	cecily@hollack.org
+64	Carmelina	Lindall	08/13/1920	2664 Lewis Rd	Littleton	CO	80126	303-724-7371	carmelina_lindall@lindall.com
+65	Maurine	Yglesias	11/24/1955	59 Shady Ln #53	Milwaukee	WI	53214	414-748-1374	maurine_yglesias@yglesias.com
+66	Tawna	Buvens	01/28/1944	3305 Nabell Ave #679	New York	NY	10009	212-674-9610	tawna@gmail.com
+67	Penney	Weight	03/19/1930	18 Fountain St	Anchorage	AK	99515	907-797-9628	penney_weight@aol.com
+68	Elly	Morocco	09/13/1968	7 W 32nd St	Erie	PA	16502	814-393-5571	elly_morocco@gmail.com
+69	Ilene	Eroman	12/02/2004	2853 S Central Expy	Glen Burnie	MD	21061	410-914-9018	ilene.eroman@hotmail.com
+70	Vallie	Mondella	10/24/1929	74 W College St	Boise	ID	83707	208-862-5339	vmondella@mondella.com
+71	Kallie	Blackwood	05/27/1932	701 S Harrison Rd	San Francisco	CA	94104	415-315-2761	kallie.blackwood@gmail.com
+74	Micaela	Rhymes	08/02/1938	20932 Hedley St	Concord	CA	94520	925-647-3298	micaela_rhymes@gmail.com
+77	Laurel	Reitler	07/29/1942	6 Kains Ave	Baltimore	MD	21215	410-520-4832	laurel_reitler@reitler.com
+78	Delisa	Crupi	04/18/1924	47565 W Grand Ave	Newark	NJ	7105	973-354-2040	delisa.crupi@crupi.com
+79	Viva	Toelkes	08/11/1952	4284 Dorigo Ln	Chicago	IL	60647	773-446-5569	viva.toelkes@gmail.com
+81	Devorah	Chickering	10/03/1969	31 Douglas Blvd #950	Clovis	NM	88101	505-975-8559	devorah@hotmail.com
+83	Arlette	Honeywell	03/26/1915	11279 Loytan St	Jacksonville	FL	32254	904-775-4480	ahoneywell@honeywell.com
+84	Dominque	Dickerson	01/21/1987	69 Marquette Ave	Hayward	CA	94545	510-993-3758	dominque.dickerson@dickerson.org
+86	Myra	Munns	03/22/2002	461 Prospect Pl #316	Euless	TX	76040	817-914-7518	mmunns@cox.net
+87	Stephaine	Barfield	12/22/1922	47154 Whipple Ave Nw	Gardena	CA	90247	310-774-7643	stephaine@barfield.com
+88	Lai	Gato	12/06/1917	37 Alabama Ave	Evanston	IL	60201	847-728-7286	lai.gato@gato.org
+90	Tyra	Shields	07/20/1973	3 Fort Worth Ave	Philadelphia	PA	19106	215-255-1641	tshields@gmail.com
+92	Cory	Gibes	04/16/1924	83649 W Belmont Ave	San Gabriel	CA	91776	626-572-1096	cory.gibes@gmail.com
+93	Danica	Bruschke	12/01/1953	840 15th Ave	Waco	TX	76708	254-782-8569	danica_bruschke@gmail.com
+97	Malinda	Hochard	12/13/1959	55 Riverside Ave	Indianapolis	IN	46202	317-722-5066	malinda.hochard@yahoo.com
+99	Lisha	Centini	07/30/1926	64 5th Ave #1153	Mc Lean	VA	22102	703-235-3937	lisha@centini.org
+100	Arlene	Klusman	08/07/1917	3 Secor Rd	New Orleans	LA	70112	504-710-5840	arlene_klusman@gmail.com
+101	Alease	Buemi	06/04/1975	4 Webbs Chapel Rd	Boulder	CO	80303	303-301-4946	alease@buemi.com
+102	Louisa	Cronauer	05/30/1957	524 Louisiana Ave Nw	San Leandro	CA	94577	510-828-7047	louisa@cronauer.com
+105	Rosio	Cork	03/02/1993	4 10th St W	High Point	NC	27263	336-243-5659	rosio.cork@gmail.com
+106	Celeste	Korando	02/25/1919	7 W Pinhook Rd	Lynbrook	NY	11563	516-509-2347	ckorando@hotmail.com
+107	Twana	Felger	09/23/2006	1 Commerce Way	Portland	OR	97224	503-939-3153	twana.felger@felger.org
+108	Estrella	Samu	01/21/1943	64 Lakeview Ave	Beloit	WI	53511	608-976-7199	estrella@aol.com
+109	Donte	Kines	11/03/1983	3 Aspen St	Worcester	MA	1602	508-429-8576	dkines@hotmail.com
+111	Edna	Miceli	02/09/1930	555 Main St	Erie	PA	16502	814-460-2655	emiceli@miceli.org
+112	Sue	Kownacki	10/17/1960	2 Se 3rd Ave	Mesquite	TX	75149	972-666-3413	sue@aol.com
+114	Rolland	Francescon	08/14/1962	2726 Charcot Ave	Paterson	NJ	7501	973-649-2922	rolland@cox.net
+115	Pamella	Schmierer	01/18/1947	5161 Dorsett Rd	Homestead	FL	33030	305-420-8970	pamella.schmierer@schmierer.org
+118	Brandon	Callaro	02/26/1958	7 Benton Dr	Honolulu	HI	96819	808-215-6832	brandon_callaro@hotmail.com
+121	Ty	Smith	01/08/1996	4646 Kaahumanu St	Hackensack	NJ	7601	201-672-1553	tsmith@aol.com
+122	Xuan	Rochin	09/26/1988	2 Monroe St	San Mateo	CA	94403	650-933-5072	xuan@gmail.com
+129	Lucina	Lary	06/29/1943	8597 W National Ave	Cocoa	FL	32922	321-749-4981	lucina_lary@cox.net
+130	Bok	Isaacs	03/04/1954	6 Gilson St	Bronx	NY	10468	718-809-3762	bok.isaacs@aol.com
+131	Rolande	Spickerman	12/08/2000	65 W Maple Ave	Pearl City	HI	96782	808-315-3077	rolande.spickerman@spickerman.com
+132	Howard	Paulas	12/07/1972	866 34th Ave	Denver	CO	80231	303-623-4241	hpaulas@gmail.com
+133	Kimbery	Madarang	06/29/1952	798 Lund Farm Way	Rockaway	NJ	7866	973-310-1634	kimbery_madarang@cox.net
+134	Thurman	Manno	02/01/2005	9387 Charcot Ave	Absecon	NJ	8201	609-524-3586	thurman.manno@yahoo.com
+136	Beatriz	Corrington	05/17/1983	481 W Lemon St	Middleboro	MA	2346	508-584-4279	beatriz@yahoo.com
+139	Leatha	Hagele	06/30/1968	627 Walford Ave	Dallas	TX	75227	214-339-1809	lhagele@cox.net
+140	Valentin	Klimek	07/13/1952	137 Pioneer Way	Chicago	IL	60604	312-303-5453	vklimek@klimek.org
+145	Daren	Weirather	09/18/1985	9 N College Ave #3	Milwaukee	WI	53216	414-959-2540	dweirather@aol.com
+148	Chau	Kitzman	08/20/2003	429 Tiger Ln	Beverly Hills	CA	90212	310-560-8022	chau@gmail.com
+149	Theola	Frey	12/10/1979	54169 N Main St	Massapequa	NY	11758	516-948-5768	theola_frey@frey.com
+150	Cheryl	Haroldson	04/11/1950	92 Main St	Atlantic City	NJ	8401	609-518-7697	cheryl@haroldson.org
+151	Laticia	Merced	01/03/2013	72 Mannix Dr	Cincinnati	OH	45203	513-508-7371	lmerced@gmail.com
+153	Lezlie	Craghead	09/02/1998	749 W 18th St #45	Smithfield	NC	27577	919-533-3762	lezlie.craghead@craghead.org
+154	Ozell	Shealy	05/26/1959	8 Industry Ln	New York	NY	10002	212-332-8435	oshealy@hotmail.com
+155	Arminda	Parvis	09/13/1988	1 Huntwood Ave	Phoenix	AZ	85017	602-906-9419	arminda@parvis.com
+156	Reita	Leto	04/27/1985	55262 N French Rd	Indianapolis	IN	46240	317-234-1135	reita.leto@gmail.com
+157	Yolando	Luczki	06/24/1988	422 E 21st St	Syracuse	NY	13214	315-304-4759	yolando@cox.net
+158	Lizette	Stem	04/01/1918	501 N 19th Ave	Cherry Hill	NJ	8002	856-487-5412	lizette.stem@aol.com
+159	Gregoria	Pawlowicz	10/15/1956	455 N Main Ave	Garden City	NY	11530	516-212-1915	gpawlowicz@yahoo.com
+160	Carin	Deleo	09/01/1970	1844 Southern Blvd	Little Rock	AR	72202	501-308-1040	cdeleo@deleo.com
+164	Latrice	Tolfree	09/23/1962	81 Norris Ave #525	Ronkonkoma	NY	11779	631-957-7624	latrice.tolfree@hotmail.com
+166	Dorthy	Hidvegi	12/16/1928	9635 S Main St	Boise	ID	83704	208-649-2373	dhidvegi@yahoo.com
+168	Evangelina	Radde	08/29/1917	992 Civic Center Dr	Philadelphia	PA	19123	215-964-3284	evangelina@aol.com
+169	Novella	Degroot	07/15/1950	303 N Radcliffe St	Hilo	HI	96720	808-477-4775	novella_degroot@degroot.org
+170	Clay	Hoa	07/16/1919	73 Saint Ann St #86	Reno	NV	89502	775-501-8109	choa@hoa.org
+171	Jennifer	Fallick	05/24/2003	44 58th St	Wheeling	IL	60090	847-979-9545	jfallick@yahoo.com
+172	Irma	Wolfgramm	04/08/2002	9745 W Main St	Randolph	NJ	7869	973-545-7355	irma.wolfgramm@hotmail.com
+173	Eun	Coody	11/28/1999	84 Bloomfield Ave	Spartanburg	SC	29301	864-256-3620	eun@yahoo.com
+176	Layla	Springe	03/11/1995	229 N Forty Driv	New York	NY	10011	212-260-3151	layla.springe@cox.net
+178	Annabelle	Boord	03/09/1959	523 Marquette Ave	Concord	MA	1742	978-697-6263	annabelle.boord@cox.net
+180	Nelida	Sawchuk	02/12/2010	3 State Route 35 S	Paramus	NJ	7652	201-971-1638	nelida@gmail.com
+181	Marguerita	Hiatt	02/08/1931	82 N Highway 67	Oakley	CA	94561	925-634-7158	marguerita.hiatt@gmail.com
+182	Carmela	Cookey	08/14/1993	9 Murfreesboro Rd	Chicago	IL	60623	773-494-4195	ccookey@cookey.org
+183	Junita	Brideau	02/18/1944	6 S Broadway St	Cedar Grove	NJ	7009	973-943-3423	jbrideau@aol.com
+184	Claribel	Varriano	03/31/1949	6 Harry L Dr #6327	Perrysburg	OH	43551	419-544-4900	claribel_varriano@cox.net
+185	Benton	Skursky	07/15/1981	47939 Porter Ave	Gardena	CA	90248	310-579-2907	benton.skursky@aol.com
+187	Merilyn	Bayless	08/07/1951	195 13n N	Santa Clara	CA	95054	408-758-5015	merilyn_bayless@cox.net
+188	Teri	Ennaco	10/14/1930	99 Tank Farm Rd	Hazleton	PA	18201	570-889-5187	tennaco@gmail.com
+190	Georgene	Montezuma	11/08/1974	98 University Dr	San Ramon	CA	94583	925-615-5185	gmontezuma@cox.net
+191	Jettie	Mconnell	05/29/1950	50 E Wacker Dr	Bridgewater	NJ	8807	908-802-3564	jmconnell@hotmail.com
+192	Lemuel	Latzke	06/08/1969	70 Euclid Ave #722	Bohemia	NY	11716	631-748-6479	lemuel.latzke@gmail.com
+193	Melodie	Knipp	07/29/1934	326 E Main St #6496	Thousand Oaks	CA	91362	805-690-1682	mknipp@gmail.com
+195	Karan	Karpin	04/29/1935	3 Elmwood Dr	Beaverton	OR	97005	503-940-8327	karan_karpin@gmail.com
+196	Andra	Scheyer	04/25/1971	9 Church St	Salem	OR	97302	503-516-2189	andra@gmail.com
+197	Felicidad	Poullion	02/02/1945	9939 N 14th St	Riverton	NJ	8077	856-305-9731	fpoullion@poullion.com
+199	Gracia	Melnyk	05/23/1990	97 Airport Loop Dr	Jacksonville	FL	32216	904-235-3633	gracia@melnyk.com
+200	Jolanda	Hanafan	05/07/1943	37855 Nolan Rd	Bangor	ME	4401	207-458-9196	jhanafan@gmail.com
+202	Helga	Fredicks	02/07/2004	42754 S Ash Ave	Buffalo	NY	14228	716-752-4114	helga_fredicks@yahoo.com
+203	Ashlyn	Pinilla	05/18/1965	703 Beville Rd	Opa Locka	FL	33054	305-670-9628	apinilla@cox.net
+204	Fausto	Agramonte	08/25/1989	5 Harrison Rd	New York	NY	10038	212-313-1783	fausto_agramonte@yahoo.com
+205	Ronny	Caiafa	01/31/1923	73 Southern Blvd	Philadelphia	PA	19103	215-605-7570	ronny.caiafa@caiafa.org
+206	Marge	Limmel	06/01/1954	189 Village Park Rd	Crestview	FL	32536	850-430-1663	marge@gmail.com
+207	Norah	Waymire	02/05/1930	6 Middlegate Rd #106	San Francisco	CA	94107	415-306-7897	norah.waymire@gmail.com
+208	Aliza	Baltimore	05/10/1989	1128 Delaware St	San Jose	CA	95132	408-504-3552	aliza@aol.com
+210	Viola	Bitsuie	11/10/1992	70 Mechanic St	Northridge	CA	91325	818-864-4875	viola@gmail.com
+211	Franklyn	Emard	01/16/1994	4379 Highway 116	Philadelphia	PA	19103	215-558-8189	femard@emard.com
+212	Willodean	Konopacki	10/19/1974	55 Hawthorne Blvd	Lafayette	LA	70506	337-253-8384	willodean_konopacki@konopacki.org
+215	Frederica	Blunk	09/26/1979	99586 Main St	Dallas	TX	75207	214-428-2285	frederica_blunk@gmail.com
+216	Glen	Bartolet	12/30/1931	8739 Hudson St	Vashon	WA	98070	206-697-5796	glen_bartolet@hotmail.com
+218	Vincent	Meinerding	10/03/2006	4441 Point Term Mkt	Philadelphia	PA	19143	215-372-1718	vincent.meinerding@hotmail.com
+219	Rima	Bevelacqua	11/09/1930	2972 Lafayette Ave	Gardena	CA	90248	310-858-5079	rima@cox.net
+220	Glendora	Sarbacher	09/12/1948	2140 Diamond Blvd	Rohnert Park	CA	94928	707-653-8214	gsarbacher@gmail.com
+221	Avery	Steier	11/20/1973	93 Redmond Rd #492	Orlando	FL	32803	407-808-9439	avery@cox.net
+222	Cristy	Lother	04/20/1970	3989 Portage Tr	Escondido	CA	92025	760-971-4322	cristy@lother.com
+223	Nicolette	Brossart	08/30/1939	1 Midway Rd	Westborough	MA	1581	508-837-9230	nicolette_brossart@brossart.com
+225	Virgina	Tegarden	08/13/1947	755 Harbor Way	Milwaukee	WI	53226	414-214-8697	virgina_tegarden@tegarden.com
+226	Tiera	Frankel	01/28/1963	87 Sierra Rd	El Monte	CA	91731	626-636-4117	tfrankel@aol.com
+227	Alaine	Bergesen	10/01/1935	7667 S Hulen St #42	Yonkers	NY	10701	914-300-9193	alaine_bergesen@cox.net
+229	Leonida	Gobern	07/10/1931	5 Elmwood Park Blvd	Biloxi	MS	39530	228-235-5615	leonida@gobern.org
+230	Ressie	Auffrey	05/04/2013	23 Palo Alto Sq	Miami	FL	33134	305-604-8981	ressie.auffrey@yahoo.com
+232	Eladia	Saulter	08/19/1923	3958 S Dupont Hwy #7	Ramsey	NJ	7446	201-474-4924	eladia@saulter.com
+233	Chaya	Malvin	06/10/1927	560 Civic Center Dr	Ann Arbor	MI	48103	734-928-5182	chaya@malvin.com
+234	Gwenn	Suffield	06/24/1927	3270 Dequindre Rd	Deer Park	NY	11729	631-258-6558	gwenn_suffield@suffield.org
+236	Yoko	Fishburne	05/20/1916	9122 Carpenter Ave	New Haven	CT	6511	203-506-4706	yoko@fishburne.com
+239	Rickie	Plumer	04/23/1928	3 N Groesbeck Hwy	Toledo	OH	43613	419-693-1334	rickie.plumer@aol.com
+240	Alex	Loader	02/25/2012	37 N Elm St #916	Tacoma	WA	98409	253-660-7821	alex@loader.com
+242	Lauran	Burnard	04/18/1989	66697 Park Pl #3224	Riverton	WY	82501	307-342-7795	lburnard@burnard.com
+244	My	Rantanen	11/11/1950	8 Mcarthur Ln	Richboro	PA	18954	215-491-5633	my@hotmail.com
+245	Lorrine	Worlds	04/27/1916	8 Fair Lawn Ave	Tampa	FL	33614	813-769-2939	lorrine.worlds@worlds.com
+247	Marvel	Raymo	01/01/1920	9 Vanowen St	College Station	TX	77840	979-718-8968	mraymo@yahoo.com
+249	An	Fritz	11/24/1962	506 S Hacienda Dr	Atlantic City	NJ	8401	609-228-5265	an_fritz@hotmail.com
+250	Portia	Stimmel	11/16/1915	3732 Sherman Ave	Bridgewater	NJ	8807	908-722-7128	portia.stimmel@aol.com
+251	Rhea	Aredondo	08/30/1917	25657 Live Oak St	Brooklyn	NY	11226	718-560-9537	rhea_aredondo@cox.net
+252	Benedict	Sama	06/01/1947	4923 Carey Ave	Saint Louis	MO	63104	314-787-1588	bsama@cox.net
+253	Alyce	Arias	06/14/1932	3196 S Rider Trl	Stockton	CA	95207	209-317-1801	alyce@arias.org
+254	Heike	Berganza	02/01/1952	3 Railway Ave #75	Little Falls	NJ	7424	973-936-5095	heike@gmail.com
+255	Carey	Dopico	09/03/1970	87393 E Highland Rd	Indianapolis	IN	46220	317-578-2453	carey_dopico@dopico.org
+261	Jade	Farrar	05/20/1916	6882 Torresdale Ave	Columbia	SC	29201	803-352-5387	jade.farrar@yahoo.com
+262	Charlene	Hamilton	09/01/1934	985 E 6th Ave	Santa Rosa	CA	95407	707-300-1771	charlene.hamilton@hotmail.com
+263	Geoffrey	Acey	10/01/1965	7 West Ave #1	Palatine	IL	60067	847-222-1734	geoffrey@gmail.com
+264	Stevie	Westerbeck	12/01/1987	26659 N 13th St	Costa Mesa	CA	92626	949-867-4077	stevie.westerbeck@yahoo.com
+266	Harrison	Haufler	04/10/1953	759 Eldora St	New Haven	CT	6515	203-801-6193	hhaufler@hotmail.com
+268	Buddy	Cloney	03/14/1948	944 Gaither Dr	Strongsville	OH	44136	440-989-5826	buddy.cloney@yahoo.com
+269	Dalene	Riden	11/15/2012	66552 Malone Rd	Plaistow	NH	3865	603-315-6839	dalene.riden@aol.com
+270	Jerry	Zurcher	10/11/2010	77 Massillon Rd #822	Satellite Beach	FL	32937	321-518-5938	jzurcher@zurcher.org
+271	Haydee	Denooyer	08/05/1997	25346 New Rd	New York	NY	10016	212-792-8658	hdenooyer@denooyer.org
+273	Deonna	Kippley	05/07/1979	57 Haven Ave #90	Southfield	MI	48075	248-913-4677	deonna_kippley@hotmail.com
+275	Alecia	Bubash	04/01/2009	6535 Joyce St	Wichita Falls	TX	76301	940-276-7922	alecia@aol.com
+279	Salome	Lacovara	06/25/1956	9677 Commerce Dr	Richmond	VA	23219	804-550-5097	slacovara@gmail.com
+280	Garry	Keetch	02/12/1952	5 Green Pond Rd #4	Southampton	PA	18966	215-979-8776	garry_keetch@hotmail.com
+281	Matthew	Neither	02/04/2007	636 Commerce Dr #42	Shakopee	MN	55379	952-651-7597	mneither@yahoo.com
+283	Noah	Kalafatis	09/13/1965	1950 5th Ave	Milwaukee	WI	53209	414-263-5287	noah.kalafatis@aol.com
+284	Carmen	Sweigard	09/19/1966	61304 N French Rd	Somerset	NJ	8873	732-941-2621	csweigard@sweigard.com
+286	Junita	Stoltzman	12/11/1923	94 W Dodge Rd	Carson City	NV	89701	775-638-9963	junita@aol.com
+288	Casie	Good	01/24/1994	5221 Bear Valley Rd	Nashville	TN	37211	615-390-2251	casie.good@aol.com
+289	Reena	Maisto	11/20/1985	9648 S Main	Salisbury	MD	21801	410-351-1863	reena@hotmail.com
+290	Mirta	Mallett	05/10/2009	7 S San Marcos Rd	New York	NY	10004	212-870-1286	mirta_mallett@gmail.com
+291	Cathrine	Pontoriero	09/06/1935	812 S Haven St	Amarillo	TX	79109	806-703-1435	cathrine.pontoriero@pontoriero.com
+293	Raul	Upthegrove	03/10/1997	4 E Colonial Dr	La Mesa	CA	91942	619-509-5282	rupthegrove@yahoo.com
+294	Sarah	Candlish	07/03/1935	45 2nd Ave #9759	Atlanta	GA	30328	770-732-1194	sarah.candlish@gmail.com
+297	Yvonne	Tjepkema	06/09/1989	9 Waydell St	Fairfield	NJ	7004	973-714-1721	yvonne.tjepkema@hotmail.com
+298	Kayleigh	Lace	03/03/1998	43 Huey P Long Ave	Lafayette	LA	70508	337-740-9323	kayleigh.lace@yahoo.com
+301	Kristeen	Turinetti	08/10/1936	70099 E North Ave	Arlington	TX	76013	817-213-8851	kristeen@gmail.com
+305	Ligia	Reiber	03/12/1998	206 Main St #2804	Lansing	MI	48933	517-906-1108	lreiber@cox.net
+311	Raina	Brachle	03/26/1982	3829 Ventura Blvd	Butte	MT	59701	406-318-1515	raina.brachle@brachle.org
+312	Erinn	Canlas	08/17/1946	13 S Hacienda Dr	Livingston	NJ	7039	973-767-3008	erinn.canlas@canlas.com
+313	Cherry	Lietz	05/19/1938	40 9th Ave Sw #91	Waterford	MI	48329	248-980-6904	cherry@lietz.com
+315	Lilli	Scriven	01/19/1933	33 State St	Abilene	TX	79601	325-631-1560	lilli@aol.com
+316	Whitley	Tomasulo	08/24/2006	2 S 15th St	Fort Worth	TX	76107	817-526-4408	whitley.tomasulo@aol.com
+317	Barbra	Adkin	11/16/1973	4 Kohler Memorial Dr	Brooklyn	NY	11230	718-201-3751	badkin@hotmail.com
+319	Jesusita	Flister	02/29/1920	3943 N Highland Ave	Lancaster	PA	17601	717-885-9118	jesusita.flister@hotmail.com
+321	Roosevelt	Hoffis	07/21/1979	60 Old Dover Rd	Hialeah	FL	33014	305-622-4739	roosevelt.hoffis@aol.com
+322	Helaine	Halter	12/10/2012	8 Sheridan Rd	Jersey City	NJ	7304	201-832-4168	hhalter@yahoo.com
+328	Jerry	Dallen	06/25/1923	393 Lafayette Ave	Richmond	VA	23219	804-762-9576	jerry.dallen@yahoo.com
+329	Leota	Ragel	10/14/1938	99 5th Ave #33	Trion	GA	30753	706-221-4243	leota.ragel@gmail.com
+330	Jutta	Amyot	07/09/2009	49 N Mays St	Broussard	LA	70518	337-515-1438	jamyot@hotmail.com
+331	Aja	Gehrett	09/17/2013	993 Washington Ave	Nutley	NJ	7110	973-544-2677	aja_gehrett@hotmail.com
+332	Kirk	Herritt	08/25/1999	88 15th Ave Ne	Vestal	NY	13850	607-407-3716	kirk.herritt@aol.com
+333	Leonora	Mauson	10/14/1970	3381 E 40th Ave	Passaic	NJ	7055	973-412-2995	leonora@yahoo.com
+335	Tarra	Nachor	09/10/1963	39 Moccasin Dr	San Francisco	CA	94104	415-411-1775	tarra.nachor@cox.net
+336	Corinne	Loder	08/10/1983	4 Carroll St	North Attleboro	MA	2760	508-942-4186	corinne@loder.org
+337	Dulce	Labreche	01/01/1970	9581 E Arapahoe Rd	Rochester	MI	48307	248-357-8718	dulce_labreche@yahoo.com
+339	Kaitlyn	Ogg	06/18/2011	2 S Biscayne Blvd	Baltimore	MD	21230	410-665-4903	kaitlyn.ogg@gmail.com
+342	Ernest	Syrop	10/22/1960	94 Chase Rd	Hyattsville	MD	20785	301-998-9644	ernest@cox.net
+343	Nobuko	Halsey	09/03/1966	8139 I Hwy 10 #92	New Bedford	MA	2745	508-855-9887	nobuko.halsey@yahoo.com
+344	Lavonna	Wolny	09/29/1927	5 Cabot Rd	Mc Lean	VA	22102	703-483-1970	lavonna.wolny@hotmail.com
+351	Kristofer	Bennick	10/22/1998	772 W River Dr	Bloomington	IN	47404	812-368-1511	kristofer.bennick@yahoo.com
+353	Shalon	Shadrick	03/16/2013	61047 Mayfield Ave	Brooklyn	NY	11223	718-232-2337	shalon@cox.net
+354	Denise	Patak	10/10/1963	2139 Santa Rosa Ave	Orlando	FL	32801	407-446-4358	denise@patak.org
+355	Louvenia	Beech	08/31/1994	598 43rd St	Beverly Hills	CA	90210	310-820-2117	louvenia.beech@beech.com
+358	Vincenza	Zepp	05/06/1933	395 S 6th St #2	El Cajon	CA	92020	619-603-5125	vzepp@gmail.com
+359	Elouise	Gwalthney	02/20/1961	9506 Edgemore Ave	Bladensburg	MD	20710	301-841-5012	egwalthney@yahoo.com
+361	Kasandra	Semidey	07/18/1927	369 Latham St #500	Saint Louis	MO	63102	314-732-9131	kasandra_semidey@semidey.com
+362	Xochitl	Discipio	04/05/1961	3158 Runamuck Pl	Round Rock	TX	78664	512-233-1831	xdiscipio@gmail.com
+363	Maile	Linahan	10/24/1950	9 Plainsboro Rd #598	Greensboro	NC	27409	336-670-2640	mlinahan@yahoo.com
+364	Krissy	Rauser	12/07/1937	8728 S Broad St	Coram	NY	11727	631-443-4710	krauser@cox.net
+365	Pete	Dubaldi	02/12/1932	2215 Prosperity Dr	Lyndhurst	NJ	7071	201-825-2514	pdubaldi@hotmail.com
+366	Linn	Paa	08/24/1977	1 S Pine St	Memphis	TN	38112	901-412-4381	linn_paa@paa.com
+367	Paris	Wide	01/13/1939	187 Market St	Atlanta	GA	30342	404-505-4445	paris@hotmail.com
+368	Wynell	Dorshorst	02/11/2001	94290 S Buchanan St	Pacifica	CA	94044	650-473-1262	wynell_dorshorst@dorshorst.org
+369	Quentin	Birkner	12/07/1929	7061 N 2nd St	Burnsville	MN	55337	952-702-7993	qbirkner@aol.com
+370	Regenia	Kannady	11/05/1936	10759 Main St	Scottsdale	AZ	85260	480-726-1280	regenia.kannady@cox.net
+372	Izetta	Funnell	01/31/2006	82 Winsor St #54	Atlanta	GA	30340	770-844-3447	izetta.funnell@hotmail.com
+373	Rodolfo	Butzen	04/25/1986	41 Steel Ct	Northfield	MN	55057	507-210-3510	rodolfo@hotmail.com
+374	Zona	Colla	12/08/1935	49440 Dearborn St	Norwalk	CT	6854	203-461-1949	zona@hotmail.com
+375	Serina	Zagen	02/06/1927	7 S Beverly Dr	Fort Wayne	IN	46802	260-273-3725	szagen@aol.com
+376	Paz	Sahagun	08/27/1961	919 Wall Blvd	Meridian	MS	39307	601-927-8287	paz_sahagun@cox.net
+379	Cyril	Daufeldt	01/13/1929	3 Lawton St	New York	NY	10013	212-745-8484	cyril_daufeldt@daufeldt.com
+380	Gayla	Schnitzler	01/01/1920	38 Pleasant Hill Rd	Hayward	CA	94545	510-686-3407	gschnitzler@gmail.com
+381	Erick	Nievas	07/14/2010	45 E Acacia Ct	Chicago	IL	60624	773-704-9903	erick_nievas@aol.com
+382	Jennie	Drymon	06/02/1954	63728 Poway Rd #1	Scranton	PA	18509	570-218-4831	jennie@cox.net
+383	Mitsue	Scipione	11/15/1967	77 222 Dr	Oroville	CA	95965	530-986-9272	mscipione@scipione.com
+384	Ciara	Ventura	08/27/1974	53 W Carey St	Port Jervis	NY	12771	845-823-8877	cventura@yahoo.com
+385	Galen	Cantres	01/25/1937	617 Nw 36th Ave	Brook Park	OH	44142	216-600-6111	galen@yahoo.com
+388	Dalene	Schoeneck	11/11/1956	910 Rahway Ave	Philadelphia	PA	19102	215-268-1275	dalene@schoeneck.org
+389	Gertude	Witten	09/05/1991	7 Tarrytown Rd	Cincinnati	OH	45217	513-977-7043	gertude.witten@gmail.com
+391	Glenn	Berray	12/13/1962	29 Cherry St #7073	Des Moines	IA	50315	515-370-7348	gberray@gmail.com
+392	Lashandra	Klang	02/26/1981	810 N La Brea Ave	King of Prussia	PA	19406	610-809-1818	lashandra@yahoo.com
+393	Lenna	Newville	04/15/1981	987 Main St	Raleigh	NC	27601	919-623-2524	lnewville@newville.com
+394	Laurel	Pagliuca	04/07/1962	36 Enterprise St Se	Richland	WA	99352	509-695-5199	laurel@yahoo.com
+395	Mireya	Frerking	05/31/1991	8429 Miller Rd	Pelham	NY	10803	914-868-5965	mireya.frerking@hotmail.com
+397	Dean	Ketelsen	07/25/1920	2 Flynn Rd	Hicksville	NY	11801	516-847-4418	dean_ketelsen@gmail.com
+398	Levi	Munis	01/22/1956	2094 Ne 36th Ave	Worcester	MA	1603	508-456-4907	levi.munis@gmail.com
+400	Sharee	Maile	10/10/1920	2094 Montour Blvd	Muskegon	MI	49442	231-467-9978	sharee_maile@aol.com
+401	Cordelia	Storment	06/13/1941	393 Hammond Dr	Lafayette	LA	70506	337-566-6001	cordelia_storment@aol.com
+402	Mollie	Mcdoniel	03/27/1957	8590 Lake Lizzie Dr	Bowling Green	OH	43402	419-975-3182	mollie_mcdoniel@yahoo.com
+403	Brett	Mccullan	07/31/1926	87895 Concord Rd	La Mesa	CA	91942	619-461-9984	brett.mccullan@mccullan.com
+404	Teddy	Pedrozo	01/08/2011	46314 Route 130	Bridgeport	CT	6610	203-892-3863	teddy_pedrozo@aol.com
+405	Tasia	Andreason	09/01/1979	4 Cowesett Ave	Kearny	NJ	7032	201-920-9002	tasia_andreason@yahoo.com
+406	Hubert	Walthall	11/01/2009	95 Main Ave #2	Barberton	OH	44203	330-903-1345	hubert@walthall.org
+408	Vilma	Berlanga	10/07/1918	79 S Howell Ave	Grand Rapids	MI	49546	616-737-3085	vberlanga@berlanga.com
+409	Billye	Miro	01/18/1972	36 Lancaster Dr Se	Pearl	MS	39208	601-567-5386	billye_miro@cox.net
+410	Glenna	Slayton	11/23/2007	2759 Livingston Ave	Memphis	TN	38118	901-640-9178	glenna_slayton@cox.net
+411	Mitzie	Hudnall	06/01/1934	17 Jersey Ave	Englewood	CO	80110	303-402-1940	mitzie_hudnall@yahoo.com
+412	Bernardine	Rodefer	07/05/1952	2 W Grand Ave	Memphis	TN	38112	901-901-4726	bernardine_rodefer@yahoo.com
+413	Staci	Schmaltz	06/10/1982	18 Coronado Ave #563	Pasadena	CA	91106	626-866-2339	staci_schmaltz@aol.com
+414	Nichelle	Meteer	07/05/1928	72 Beechwood Ter	Chicago	IL	60657	773-225-9985	nichelle_meteer@meteer.com
+415	Janine	Rhoden	01/16/1953	92 Broadway	Astoria	NY	11103	718-228-5894	jrhoden@yahoo.com
+417	Eden	Jayson	06/06/1971	4 Iwaena St	Baltimore	MD	21202	410-890-7866	eden_jayson@yahoo.com
+418	Lynelle	Auber	02/14/1948	32820 Corkwood Rd	Newark	NJ	7104	973-860-8610	lynelle_auber@gmail.com
+422	Virgie	Kiel	09/02/2014	76598 Rd  I 95 #1	Denver	CO	80216	303-776-7548	vkiel@hotmail.com
+423	Jolene	Ostolaza	04/24/1942	1610 14th St Nw	Newport News	VA	23608	757-682-7116	jolene@yahoo.com
+424	Keneth	Borgman	12/27/1959	86350 Roszel Rd	Phoenix	AZ	85012	602-919-4211	keneth@yahoo.com
+426	Elke	Sengbusch	12/24/1948	9 W Central Ave	Phoenix	AZ	85013	602-896-2993	elke_sengbusch@yahoo.com
+427	Hoa	Sarao	02/13/1969	27846 Lafayette Ave	Oak Hill	FL	32759	386-526-7800	hoa@sarao.org
+428	Trinidad	Mcrae	07/04/1948	10276 Brooks St	San Francisco	CA	94105	415-331-9634	trinidad_mcrae@yahoo.com
+431	Antione	Onofrio	08/07/1930	4 S Washington Ave	San Bernardino	CA	92410	909-430-7765	aonofrio@onofrio.com
+432	Luisa	Jurney	01/01/2011	25 Se 176th Pl	Cambridge	MA	2138	617-365-2134	ljurney@hotmail.com
+435	Ahmed	Angalich	10/26/1943	2 W Beverly Blvd	Harrisburg	PA	17110	717-528-8996	ahmed.angalich@angalich.com
+437	Joanna	Leinenbach	06/21/2014	1 Washington St	Lake Worth	FL	33461	561-470-4574	joanna_leinenbach@hotmail.com
+438	Caprice	Suell	02/04/1972	90177 N 55th Ave	Nashville	TN	37211	615-246-1824	caprice@aol.com
+439	Stephane	Myricks	11/18/1985	9 Tower Ave	Burlington	KY	41005	859-717-7638	stephane_myricks@cox.net
+440	Quentin	Swayze	02/01/1984	278 Bayview Ave	Milan	MI	48160	734-561-6170	quentin_swayze@yahoo.com
+441	Annmarie	Castros	10/02/1916	80312 W 32nd St	Conroe	TX	77301	936-751-7961	annmarie_castros@gmail.com
+442	Shonda	Greenbush	08/29/1946	82 Us Highway 46	Clifton	NJ	7011	973-482-2430	shonda_greenbush@cox.net
+443	Cecil	Lapage	07/13/1982	4 Stovall St #72	Union City	NJ	7087	201-693-3967	clapage@lapage.com
+444	Jeanice	Claucherty	09/11/1992	19 Amboy Ave	Miami	FL	33142	305-988-4162	jeanice.claucherty@yahoo.com
+446	Daniel	Perruzza	02/08/1955	11360 S Halsted St	Santa Ana	CA	92705	714-771-3880	dperruzza@perruzza.com
+449	Adell	Lipkin	01/06/1922	65 Mountain View Dr	Whippany	NJ	7981	973-654-1561	adell.lipkin@lipkin.com
+450	Jacqueline	Rowling	10/30/1969	1 N San Saba	Erie	PA	16501	814-865-8113	jacqueline.rowling@yahoo.com
+451	Lonny	Weglarz	12/22/1986	51120 State Route 18	Salt Lake City	UT	84115	801-293-9853	lonny_weglarz@gmail.com
+452	Lonna	Diestel	09/20/1945	1482 College Ave	Fayetteville	NC	28301	910-922-3672	lonna_diestel@gmail.com
+453	Cristal	Samara	12/11/2010	4119 Metropolitan Dr	Los Angeles	CA	90021	213-975-8026	cristal@cox.net
+455	Elli	Mclaird	11/01/1996	6 Sunrise Ave	Utica	NY	13501	315-818-2638	emclaird@mclaird.com
+456	Alline	Jeanty	04/30/1927	55713 Lake City Hwy	South Bend	IN	46601	574-656-2800	ajeanty@gmail.com
+457	Sharika	Eanes	02/16/1942	75698 N Fiesta Blvd	Orlando	FL	32806	407-312-1691	sharika.eanes@aol.com
+458	Nu	Mcnease	07/17/1956	88 Sw 28th Ter	Harrison	NJ	7029	973-751-9003	nu@gmail.com
+459	Daniela	Comnick	07/21/1978	7 Flowers Rd #403	Trenton	NJ	8611	609-200-8577	dcomnick@cox.net
+460	Cecilia	Colaizzo	04/13/1964	4 Nw 12th St #3849	Madison	WI	53717	608-382-4541	cecilia_colaizzo@colaizzo.com
+461	Leslie	Threets	03/13/1975	2 A Kelley Dr	Katonah	NY	10536	914-861-9748	leslie@cox.net
+462	Nan	Koppinger	08/11/1947	88827 Frankford Ave	Greensboro	NC	27401	336-370-5333	nan@koppinger.com
+463	Izetta	Dewar	04/01/1988	2 W Scyene Rd #3	Baltimore	MD	21217	410-473-1708	idewar@dewar.com
+464	Tegan	Arceo	10/12/1982	62260 Park Stre	Monroe Township	NJ	8831	732-730-2692	tegan.arceo@arceo.org
+465	Ruthann	Keener	10/02/2006	3424 29th St Se	Kerrville	TX	78028	830-258-2769	ruthann@hotmail.com
+467	Vi	Rentfro	03/01/1982	7163 W Clark Rd	Freehold	NJ	7728	732-605-4781	vrentfro@cox.net
+469	Malcolm	Tromblay	10/01/1964	747 Leonis Blvd	Annandale	VA	22003	703-221-5602	malcolm_tromblay@cox.net
+470	Ryan	Harnos	01/15/1961	13 Gunnison St	Plano	TX	75075	972-558-1665	ryan@cox.net
+471	Jess	Chaffins	09/12/1957	18 3rd Ave	New York	NY	10016	212-510-4633	jess.chaffins@chaffins.org
+472	Sharen	Bourbon	06/28/1915	62 W Austin St	Syosset	NY	11791	516-816-1541	sbourbon@yahoo.com
+473	Nickolas	Juvera	04/24/1983	177 S Rider Trl #52	Crystal River	FL	34429	352-598-8301	nickolas_juvera@cox.net
+474	Gary	Nunlee	01/25/2008	2 W Mount Royal Ave	Fortville	IN	46040	317-542-6023	gary_nunlee@nunlee.org
+475	Diane	Devreese	03/16/1963	1953 Telegraph Rd	Saint Joseph	MO	64504	816-557-9673	diane@cox.net
+476	Roslyn	Chavous	07/24/1979	63517 Dupont St	Jackson	MS	39211	601-234-9632	roslyn.chavous@chavous.org
+477	Glory	Schieler	02/03/1926	5 E Truman Rd	Abilene	TX	79602	325-869-2649	glory@yahoo.com
+478	Rasheeda	Sayaphon	06/04/1948	251 Park Ave #979	Saratoga	CA	95070	408-805-4309	rasheeda@aol.com
+480	Refugia	Jacobos	12/20/1966	2184 Worth St	Hayward	CA	94545	510-974-8671	refugia.jacobos@jacobos.com
+482	Mona	Delasancha	12/17/1979	38773 Gravois Ave	Cheyenne	WY	82001	307-403-1488	mdelasancha@hotmail.com
+483	Gilma	Liukko	07/18/1994	16452 Greenwich St	Garden City	NY	11530	516-393-9967	gilma_liukko@gmail.com
+484	Janey	Gabisi	08/29/1916	40 Cambridge Ave	Madison	WI	53715	608-967-7194	jgabisi@hotmail.com
+485	Lili	Paskin	04/21/1946	20113 4th Ave E	Kearny	NJ	7032	201-431-2989	lili.paskin@cox.net
+488	Gail	Similton	08/25/1992	62 Monroe St	Thousand Palms	CA	92276	760-616-5388	gail_similton@similton.com
+490	Lawrence	Lorens	03/05/1989	9 Hwy	Providence	RI	2906	401-465-6432	lawrence.lorens@hotmail.com
+491	Carlee	Boulter	01/22/1993	8284 Hart St	Abilene	KS	67410	785-347-1805	carlee.boulter@hotmail.com
+493	Jovita	Oles	04/27/1927	8 S Haven St	Daytona Beach	FL	32114	386-248-4118	joles@gmail.com
+494	Alesia	Hixenbaugh	10/27/1950	9 Front St	Washington	DC	20001	202-646-7516	alesia_hixenbaugh@hixenbaugh.org
+495	Lai	Harabedian	05/10/1931	1933 Packer Ave #2	Novato	CA	94945	415-423-3294	lai@gmail.com
+496	Brittni	Gillaspie	11/08/1921	67 Rv Cent	Boise	ID	83709	208-709-1235	bgillaspie@gillaspie.com
+498	Flo	Bookamer	10/04/2012	89992 E 15th St	Alliance	NE	69301	308-726-2182	flo.bookamer@cox.net
+500	Chauncey	Motley	07/10/1983	63 E Aurora Dr	Orlando	FL	32804	407-413-4842	chauncey_motley@aol.com

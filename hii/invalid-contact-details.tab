@@ -1,0 +1,180 @@
+contact_id	error_field	error_message
+
+3	email	'art@venere'  invalid format    
+6	mobilePhone	'419503-2484'  invalid format    XXX-XXX-XXX
+10	address	'228 Runamuck Pl #2808'   length is not over expected length  20
+12	state	'NYX'  incorrect state code
+19	mobilePhone	'313-288-17937'  invalid format    XXX-XXX-XXX
+20	firstName	''  Do not leave field empty.
+27	dayOfBirth	'03/14/193'  Datetime is not format    MM/dd/yyyy
+28	dayOfBirth	'08/10/45'  Datetime is not format    MM/dd/yyyy
+29	lastName	'KuskoKuskoKusko'   length is not over expected length  10
+30	dayOfBirth	'9/6/76'  Datetime is not format    MM/dd/yyyy
+35	address	'2742 Distribution Way'   length is not over expected length  20
+39	email	'valentine_gilliangmail.com'  invalid format    
+40	state	'KSX'  incorrect state code
+48	lastName	''  Do not leave field empty.
+53	address	'98839 Hawthorne Blvd #6101'   length is not over expected length  20
+55	mobilePhone	'9081-877-6135'  invalid format    XXX-XXX-XXX
+57	address	'14288 Foster Ave #4121'   length is not over expected length  20
+57	state	'PAX'  incorrect state code
+57	firstName	''  Do not leave field empty.
+60	address	'14302 Pennsylvania Ave'   length is not over expected length  20
+60	city	'Huntingdon Valley'   length is not over expected length  15
+62	address	'53075 Sw 152nd Ter #615'   length is not over expected length  20
+62	zipCode	'883154'  invalid format    
+62	state	'NJX'  incorrect state code
+73	lastName	''  Do not leave field empty.
+75	address	'2737 Pistorio Rd #9230'   length is not over expected length  20
+76	state	'NYX'  incorrect state code
+80	mobilePhone	'973-9271-3447'  invalid format    XXX-XXX-XXX
+82	email	'timothy_mulqueen@mulqueen'  invalid format    
+85	zipCode	'444122'  invalid format    
+89	address	'3777 E Richmond St #900'   length is not over expected length  20
+89	lastName	''  Do not leave field empty.
+91	address	'4800 Black Horse Pike'   length is not over expected length  20
+94	address	'1747 Calle Amanecer #2'   length is not over expected length  20
+95	address	'99385 Charity St #840'   length is not over expected length  20
+96	mobilePhone	'510503-7169'  invalid format    XXX-XXX-XXX
+96	state	'CAX'  incorrect state code
+104	firstName	''  Do not leave field empty.
+110	lastName	'Steffensmeier'   length is not over expected length  10
+113	address	'2239 Shawnee Mission Pky'   length is not over expected length  20
+113	zipCode	'3733588'  invalid format    
+113	state	'TNX'  incorrect state code
+116	address	'55892 Jacksonville Rd'   length is not over expected length  20
+117	address	'5 N Cleveland Massillon Rd'   length is not over expected length  20
+119	mobilePhone	'229-7353378'  invalid format    XXX-XXX-XXX
+120	address	'8 County Center Dr #647'   length is not over expected length  20
+123	address	'52777 Leaders Heights Rd'   length is not over expected length  20
+124	address	'72868 Blackington Ave'   length is not over expected length  20
+125	lastName	''  Do not leave field empty.
+126	address	'83 County Road 437 #8581'   length is not over expected length  20
+127	state	'NJX'  incorrect state code
+135	lastName	'Mirafuentes'   length is not over expected length  10
+135	email	'becky.mirafuentes'  invalid format    
+137	address	'4 Warehouse Point Rd #7'   length is not over expected length  20
+138	state	'ORX'  incorrect state code
+141	address	'61 13 Stoneridge #835'   length is not over expected length  20
+142	firstName	''  Do not leave field empty.
+144	zipCode	'422'  invalid format    
+146	address	'60480 Old Us Highway 51'   length is not over expected length  20
+147	lastName	''  Do not leave field empty.
+152	address	'12270 Caton Center Dr'   length is not over expected length  20
+161	state	'MNX'  incorrect state code
+162	state	''  incorrect state code
+163	mobilePhone	'985890-7262'  invalid format    XXX-XXX-XXX
+165	zipCode	'4535222'  invalid format    
+167	dayOfBirth	'5/24/1991'  Datetime is not format    MM/dd/yyyy
+174	address	'287 Youngstown Warren Rd'   length is not over expected length  20
+175	state	'NYX'  incorrect state code
+177	address	'2887 Knowlton St #5435'   length is not over expected length  20
+179	address	'3717 Hamann Industrial Pky'   length is not over expected length  20
+186	zipCode	'22'  invalid format    
+189	mobilePhone	'201-5887810'  invalid format    XXX-XXX-XXX
+194	state	'NJX'  incorrect state code
+201	address	'4252 N Washington Ave #9'   length is not over expected length  20
+201	mobilePhone	'8177655781'  invalid format    XXX-XXX-XXX
+201	email	'barrett.toyama.org'  invalid format    
+209	city	'South San Francisco'   length is not over expected length  15
+213	lastName	'Silvestrini'   length is not over expected length  10
+214	address	'2026 N Plankinton Ave #3'   length is not over expected length  20
+217	address	'383 Gunderman Rd #197'   length is not over expected length  20
+224	lastName	'Modzelewski'   length is not over expected length  10
+224	address	'77132 Coon Rapids Blvd Nw'   length is not over expected length  20
+228	address	'75684 S Withlapopka Dr #32'   length is not over expected length  20
+228	state	'TXX'  incorrect state code
+231	zipCode	'142'  invalid format    
+237	email	'taryn.moydhotmail.com'  invalid format    
+238	mobilePhone	'978-6266-2978'  invalid format    XXX-XXX-XXX
+241	address	'433 Westminster Blvd #590'   length is not over expected length  20
+243	mobilePhone	'207627-7565'  invalid format    XXX-XXX-XXX
+246	mobilePhone	'619-6048-1763'  invalid format    XXX-XXX-XXX
+246	state	'CAX'  incorrect state code
+248	address	'18 Waterloo Geneva Rd'   length is not over expected length  20
+256	address	'67 E Chestnut Hill Rd'   length is not over expected length  20
+257	mobilePhone	'336-8422-7652'  invalid format    XXX-XXX-XXX
+258	address	'8100 Jacksonville Rd #7'   length is not over expected length  20
+258	mobilePhone	'7185-629-8542'  invalid format    XXX-XXX-XXX
+259	address	'7 W Wabansia Ave #227'   length is not over expected length  20
+260	address	'25 Minters Chapel Rd #9'   length is not over expected length  20
+265	address	'669 Packerland Dr #1438'   length is not over expected length  20
+267	address	'5 S Colorado Blvd #449'   length is not over expected length  20
+267	state	'WAX'  incorrect state code
+272	city	'Huntington Beach'   length is not over expected length  15
+274	mobilePhone	'317-8125-4724'  invalid format    XXX-XXX-XXX
+276	dayOfBirth	'11/2/1917'  Datetime is not format    MM/dd/yyyy
+277	email	'aol.com'  invalid format    
+278	zipCode	'132'  invalid format    
+282	address	'42744 Hamann Industrial Pky #82'   length is not over expected length  20
+285	mobilePhone	'701-8984-2154'  invalid format    XXX-XXX-XXX
+287	lastName	'Nicolozakes'   length is not over expected length  10
+295	address	'57254 Brickell Ave #372'   length is not over expected length  20
+296	address	'8977 Connecticut Ave Nw #3'   length is not over expected length  20
+299	address	'7563 Cornwall Rd #4462'   length is not over expected length  20
+300	email	'tresa_sweely@'  invalid format    
+302	address	'3211 E Northeast Loop'   length is not over expected length  20
+303	lastName	'Monterrubio'   length is not over expected length  10
+304	mobilePhone	'760-4938-6069'  invalid format    XXX-XXX-XXX
+306	mobilePhone	'602-390-49441'  invalid format    XXX-XXX-XXX
+307	address	'34 Saint George Ave #2'   length is not over expected length  20
+308	address	'47857 Coney Island Ave'   length is not over expected length  20
+309	state	'PAX'  incorrect state code
+314	address	'2845 Boulder Crescent St'   length is not over expected length  20
+318	address	'1 Rancho Del Mar Shopping C'   length is not over expected length  20
+320	firstName	''  Do not leave field empty.
+323	mobilePhone	'210-2856-4979'  invalid format    XXX-XXX-XXX
+324	address	'64 Newman Springs Rd E'   length is not over expected length  20
+326	address	'80 Pittsford Victor Rd #9'   length is not over expected length  20
+327	mobilePhone	'212-304-45515'  invalid format    XXX-XXX-XXX
+327	state	'NYX'  incorrect state code
+334	mobilePhone	'208-2522-4552'  invalid format    XXX-XXX-XXX
+338	zipCode	'5430133'  invalid format    
+340	city	'Colorado Springs'   length is not over expected length  15
+341	mobilePhone	'419588-8719'  invalid format    XXX-XXX-XXX
+345	state	'MDX'  incorrect state code
+347	lastName	'Rodenberger'   length is not over expected length  10
+348	address	'8116 Mount Vernon Ave'   length is not over expected length  20
+349	address	'8772 Old County Rd #5410'   length is not over expected length  20
+349	lastName	''  Do not leave field empty.
+350	dayOfBirth	'05/2/1933'  Datetime is not format    MM/dd/yyyy
+352	city	'Arlington Heights'   length is not over expected length  15
+356	lastName	''  Do not leave field empty.
+357	lastName	''  Do not leave field empty.
+360	address	'72119 S Walker Ave #63'   length is not over expected length  20
+371	city	'Long Island City'   length is not over expected length  15
+371	email	'sheron'  invalid format    
+377	city	'Sterling Heights'   length is not over expected length  15
+378	city	'Colorado Springs'   length is not over expected length  15
+386	dayOfBirth	'8/26/63'  Datetime is not format    MM/dd/yyyy
+386	address	'539 Coldwater Canyon Ave'   length is not over expected length  20
+387	state	'AKX'  incorrect state code
+390	lastName	''  Do not leave field empty.
+396	zipCode	'221234'  invalid format    
+399	zipCode	'274105'  invalid format    
+407	email	'@yahoo.com'  invalid format    
+407	lastName	''  Do not leave field empty.
+416	lastName	'Hoopengardner'   length is not over expected length  10
+419	address	'34 Raritan Center Pky'   length is not over expected length  20
+420	lastName	''  Do not leave field empty.
+421	firstName	''  Do not leave field empty.
+425	zipCode	'42333155'  invalid format    
+429	lastName	'Lueckenbach'   length is not over expected length  10
+430	address	'9 State Highway 57 #22'   length is not over expected length  20
+433	address	'105 Richmond Valley Rd'   length is not over expected length  20
+434	lastName	''  Do not leave field empty.
+436	mobilePhone	'483-2882'  invalid format    XXX-XXX-XXX
+445	dayOfBirth	'4/14/1941'  Datetime is not format    MM/dd/yyyy
+447	lastName	''  Do not leave field empty.
+448	address	'2500 Pringle Rd Se #508'   length is not over expected length  20
+454	state	'MIX'  incorrect state code
+466	city	'Elk Grove Village'   length is not over expected length  15
+468	address	'21575 S Apple Creek Rd'   length is not over expected length  20
+479	address	'43496 Commercial Dr #29'   length is not over expected length  20
+481	address	'50126 N Plankinton Ave'   length is not over expected length  20
+486	address	'6 Ridgewood Center Dr'   length is not over expected length  20
+487	lastName	'Chesterfield'   length is not over expected length  10
+489	address	'3338 A Lockport Pl #6'   length is not over expected length  20
+492	lastName	''  Do not leave field empty.
+497	zipCode	'546514'  invalid format    
+499	state	'WAX'  incorrect state code
