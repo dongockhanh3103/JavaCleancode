@@ -36,14 +36,13 @@ public class ContactInvalidDetailReport implements ReportService<Contact> {
 
     @Override
     public String getHeaderReport() {
-        return Constants.getReportHeaderItem("invalid-contact-details")+"\r\n";
+        return Constants.getReportHeaderItem(Constants.INVALID_CONTACT_DETAILS_FILE_NAME)+"\r\n";
     }
 
     private List<String> getContactInvalidDetail(List<Contact> contactItems){
         List<String> invalidContactDetailMapping=new ArrayList<>();
         ContactValidator.contactsInvalid(contactItems).forEach((K,V)->{
             V.forEach(listErrorMapping->{
-
                 listErrorMapping.forEach(listErrorDetail->{
                     System.out.println(K+"\t"+listErrorDetail.toString());
                     invalidContactDetailMapping.add(K+"\t"+listErrorDetail.toString());

@@ -1,12 +1,10 @@
 package vn.kms.launch.cleancode;
 
 import vn.kms.launch.cleancode.Config.Annotation.ColunmField;
+import vn.kms.launch.cleancode.Constants.Constants;
 import vn.kms.launch.cleancode.Handler.ContactHandler;
 import vn.kms.launch.cleancode.Handler.ContactValidator;
-import vn.kms.launch.cleancode.Report.ContactInvalidDetailReport;
-import vn.kms.launch.cleancode.Report.ContactPerStateReport;
-import vn.kms.launch.cleancode.Report.ContactValidReport;
-import vn.kms.launch.cleancode.Report.ReportService;
+import vn.kms.launch.cleancode.Report.*;
 import vn.kms.launch.cleancode.Utils.FileUtil;
 import vn.kms.launch.cleancode.Utils.SortUtil;
 import vn.kms.launch.cleancode.common.ErrorInfo;
@@ -54,9 +52,8 @@ public class Application {
             });
             //  System.out.println(DatetimeUtil.calculatePreciseAge("31/10/1995"));
 
-            for (String keys : ContactHandler.countContactPerAgeGroup(ContactValidator.contactsValid(contacts)).keySet()) {
-                System.out.println( keys+"  "+ContactHandler.countContactPerAgeGroup(ContactValidator.contactsValid(contacts)).get(keys));
-            }
+            ReportService<Contact> ageOfGroup=new ContactPerAgeGroupReport();
+            ageOfGroup.generateReport("hii",Constants.CONTACT_PER_AGE_GROUP_FILE_NAME+".tab",ContactValidator.contactsValid(contacts));
 
 
         } catch (IOException e) {

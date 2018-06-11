@@ -13,14 +13,18 @@ public class Constants {
         REPORT_HEADERS_ITEMS.put("invalid-contact-summary", "field_name\tnumber_of_invalid_contact\r\n");
         REPORT_HEADERS_ITEMS.put("contact-per-state", "state_code\tnumber_of_contact\r\n");
         REPORT_HEADERS_ITEMS.put("contact-per-age-group", "group\tnumber_of_contact\tpercentage_of_contact\r\n");
-
         return REPORT_HEADERS_ITEMS.get(keyReport);
-
     }
+    public static final String CONTACT_VALID_FILE_NAME="valid-contacts";
+    public static final String INVALID_CONTACT_DETAILS_FILE_NAME="invalid-contact-details";
+    public static final String INVALID_CONTACT_SUMMARY_FILE_NAME="invalid-contact-summary";
+    public static final String CONTACT_PER_STATE_FILE_NAME="contact-per-state";
+    public static final String CONTACT_PER_AGE_GROUP_FILE_NAME="contact-per-age-group";
+
     public static final int YEAR_OF_REPORT = 2016;
     public static final int MAX_CHARACTER_FILE_SIZE = 100000;
     public static final int COLUMN_LINE_SIZE = 14;
-    public static final String CONTACT_VALID_FILE_NAME="valid-contacts";
+
 
 
 }

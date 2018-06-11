@@ -35,7 +35,7 @@ public class ContactPerStateReport implements ReportService<Contact> {
 
     @Override
     public String getHeaderReport() {
-        return Constants.getReportHeaderItem("contact-per-state")+"\r\n";
+        return Constants.getReportHeaderItem(Constants.CONTACT_PER_STATE_FILE_NAME)+"\r\n";
     }
     public static Map<String, Integer> countContactPerState(List<Contact> contacts) {
         Map<String, Integer> contactPerStateMapping = new TreeMap<>();

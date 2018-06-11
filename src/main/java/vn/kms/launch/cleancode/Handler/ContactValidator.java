@@ -33,18 +33,12 @@ public class ContactValidator {
 
     private static List<List<ErrorInfo<String, String>>> getErrorLog(Contact contact) {
         List<List<ErrorInfo<String, String>>> errorLog = new ArrayList<>();
-        BaseValidation<DatetimeFormat> datetimeFormatBaseValidation = new DateTimeChecking();
-        BaseValidation<ValidLength> lengthBaseValidation = new LengthChecking();
-        BaseValidation<Pattern> patternBaseValidation = new PatternChecking();
-        BaseValidation<StateValid> stateValidBaseValidation = new StateChecking();
-        BaseValidation<NotEmpty> notEmptyBaseValidation = new NotEmptyChecking();
-
         List<BaseValidation> baseValidationsList = new ArrayList<>();
-        baseValidationsList.add(datetimeFormatBaseValidation);
-        baseValidationsList.add(lengthBaseValidation);
-        baseValidationsList.add(patternBaseValidation);
-        baseValidationsList.add(stateValidBaseValidation);
-        baseValidationsList.add(notEmptyBaseValidation);
+        baseValidationsList.add(new DateTimeChecking());
+        baseValidationsList.add(new LengthChecking());
+        baseValidationsList.add(new PatternChecking());
+        baseValidationsList.add(new StateChecking());
+        baseValidationsList.add(new NotEmptyChecking());
         baseValidationsList.forEach(baseValidation -> {
             if(!baseValidation.validateChecking(contact).isEmpty()){
                 errorLog.add(baseValidation.validateChecking(contact));

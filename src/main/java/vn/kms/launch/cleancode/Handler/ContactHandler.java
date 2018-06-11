@@ -53,25 +53,6 @@ public class ContactHandler {
     }
 
 
-    public static Map<String,Integer> countContactPerAgeGroup(List<Contact> contactItems){
-        Map<String, Integer> contactPerAgeGroupMapping = new HashMap<>();
-        setAgeContact(contactItems);
-        contactItems.forEach(contact -> {
-            int ageGroupCount = 0;
-            if (contactPerAgeGroupMapping.containsKey(DatetimeUtil.calculateAgeGroup(contact.getAge()))) {
-                ageGroupCount = contactPerAgeGroupMapping.get(DatetimeUtil.calculateAgeGroup(contact.getAge()));
-            }
-            contactPerAgeGroupMapping.put(DatetimeUtil.calculateAgeGroup(contact.getAge()), ageGroupCount + 1);
-        });
-        return contactPerAgeGroupMapping;
-    }
-
-    private static void setAgeContact(List<Contact> contactItems){
-        contactItems.forEach(contact -> {
-            contact.setAge(DatetimeUtil.calculatePreciseAge(contact.getDayOfBirth()));
-        });
-    }
-
 
     private static boolean isBlankLine(String lineCheck) {
         return (lineCheck.trim().length() == 0);
